@@ -2,8 +2,8 @@
 using MarkdownSharp;
 using MarkdownSharp.Extensions.Mal
 **1. Задачи на линейное программирование (без условных операторов и циклов)**
-№1
 
+№1
 package main
 
 import "fmt"
