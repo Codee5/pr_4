@@ -1,10 +1,7 @@
 # pr_4_Пашенин
-using MarkdownSharp;
-using MarkdownSharp.Extensions.Mal
 **1. Задачи на линейное программирование (без условных операторов и циклов)**
 
-№1
-package main
+``` №1 package main
 
 import "fmt"
 
@@ -98,4 +95,4 @@ func main() {
 	a1 = math.Sqrt(a1*a1 + b1*b1)
 
 	fmt.Print(a1)
-}
+} ```
